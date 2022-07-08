@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="36" height="36" rx="18"></rect>
+    </defs>
+    <g id="B端移动端v1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chat" transform="translate(-96.000000, -430.000000)">
+            <g id="编组-3备份" transform="translate(0.000000, 336.000000)">
+                <g id="编组-2" transform="translate(32.000000, 30.000000)">
+                    <g id="默认头像" transform="translate(64.000000, 64.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="蒙版"></g>
+                        <g id="User-Id" mask="url(#mask-2)" fill="#000000">
+                            <g transform="translate(9.000000, 7.200000)" id="路径">
+                                <path d="M14,4.90909091 C14,7.62030327 11.7614,9.81818182 9,9.81818182 C6.23858,9.81818182 4,7.62030327 4,4.90909091 C4,2.19787855 6.23858,1.77635684e-15 9,1.77635684e-15 C11.7614,1.77635684e-15 14,2.19787855 14,4.90909091 Z" fill-opacity="0.19684222" fill-rule="nonzero"></path>
+                                <path d="M15.818,12.8861673 C15.2016,12.18456 14.1428,12.2206909 13.3149,12.6655527 C12.0338,13.3540036 10.5635,13.7454545 9,13.7454545 C7.4365,13.7454545 5.96618,13.3540036 4.68505,12.6655527 C3.85717,12.2206909 2.79841,12.18456 2.182,12.8861673 C0.82222,14.4341018 0,16.4500691 0,18.6545455 L0,19.6363636 C0,20.72088 0.89543,21.6 2,21.6 L16,21.6 C17.1046,21.6 18,20.72088 18,19.6363636 L18,18.6545455 C18,16.4500691 17.1778,14.4341018 15.818,12.8861673 Z" fill-opacity="0.202196241" fill-rule="evenodd"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

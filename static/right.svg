@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="B端移动端v1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录-邮箱或密码错误提示备份" transform="translate(-217.000000, -432.000000)">
+            <g id="编组-2" transform="translate(32.000000, 416.000000)">
+                <g id="right" transform="translate(185.000000, 16.000000)">
+                    <circle id="椭圆形" fill="#40BE00" cx="16" cy="16" r="16"></circle>
+                    <g id="编组-39" transform="translate(5.943370, 8.305018)" fill="#FFFFFF">
+                        <rect id="矩形" transform="translate(12.570787, 7.542472) rotate(-45.000000) translate(-12.570787, -7.542472) " x="3.68189833" y="5.76469455" width="17.7777778" height="3.55555556" rx="1.77777778"></rect>
+                        <rect id="矩形备份-9" transform="translate(5.028315, 10.056630) rotate(-135.000000) translate(-5.028315, -10.056630) " x="-0.305018445" y="8.278852" width="10.6666667" height="3.55555556" rx="1.77777778"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

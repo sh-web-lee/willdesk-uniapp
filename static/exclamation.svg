@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="后端v1.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="后台-账号登录界面报错提示" transform="translate(-786.000000, -432.000000)">
+            <g id="编组-3" transform="translate(770.000000, 418.000000)">
+                <g id="编组-43备份" transform="translate(16.000000, 14.000000)">
+                    <circle id="椭圆形备份" fill="#FF2222" cx="8" cy="8" r="8"></circle>
+                    <g id="编组-40" transform="translate(7.111111, 2.666667)" fill="#FFFFFF">
+                        <rect id="矩形" x="0" y="0" width="1.77777778" height="8" rx="0.888888889"></rect>
+                        <circle id="椭圆形" cx="0.888888889" cy="9.77777778" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

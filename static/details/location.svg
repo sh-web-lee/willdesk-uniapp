@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="B端移动端v1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用户信息详情页面" transform="translate(-64.000000, -530.000000)">
+            <g id="编组-5" transform="translate(32.000000, 426.000000)">
+                <g id="Location" transform="translate(32.000000, 104.000000)">
+                    <circle id="椭圆形" fill-opacity="0.0768957605" fill="#000000" cx="15" cy="15" r="15"></circle>
+                    <g id="编组" transform="translate(7.000000, 6.000000)" fill-rule="nonzero">
+                        <path d="M16,7.40698405 C16,11.9266434 11.7107556,15.7843653 9.41368889,17.5263234 C8.5808,18.1578922 7.4192,18.1578922 6.58631111,17.5263234 C4.28921778,15.7843653 0,11.9266434 0,7.40698405 C0,3.31622198 3.58172444,0 8,0 C12.4183111,0 16,3.31622198 16,7.40698405 Z" id="路径" fill-opacity="0.204326923" fill="#000000"></path>
+                        <path d="M12.2,7.5 C12.2,9.81966 10.31966,11.7 8,11.7 C5.68034,11.7 3.8,9.81966 3.8,7.5 C3.8,5.18041 5.68034,3.3 8,3.3 C10.31966,3.3 12.2,5.18041 12.2,7.5 Z" id="路径" fill-opacity="0.802884615" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

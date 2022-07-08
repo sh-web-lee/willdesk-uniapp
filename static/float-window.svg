@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="636px" height="92px" viewBox="0 0 636 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M48,1.84316001e-16 L59.376,14 L618,14 C620.209139,14 622,15.790861 622,18 L622,74 C622,76.209139 620.209139,78 618,78 L4,78 C1.790861,78 -5.05852902e-15,76.209139 0,74 L0,18 C-2.705415e-16,15.790861 1.790861,14 4,14 L36.625,14 L48,1.84316001e-16 Z" id="path-1"></path>
+        <filter x="-1.8%" y="-12.3%" width="103.5%" height="129.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201376748 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="B端移动端v1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录-邮箱格式错误提示" transform="translate(-57.000000, -511.000000)">
+            <g id="形状结合" transform="translate(64.000000, 516.000000)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke="#3B59FE" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

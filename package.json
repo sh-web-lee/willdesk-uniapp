@@ -1,0 +1,22 @@
+{
+  "name": "willdesk-b-uni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "moment": "^2.29.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cross-env": "^7.0.3",
+    "crypto-js": "^4.1.1",
+    "js-md5": "^0.7.3",
+    "vue-i18n": "^9.1.10"
+  }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="130px" viewBox="0 0 200 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>123</title>
+    <defs>
+        <path d="M0,0 L188,0 C194.627417,-1.21743675e-15 200,5.372583 200,12 L200,118 C200,124.627417 194.627417,130 188,130 L0,130 L0,130 L0,0 Z" id="path-1"></path>
+    </defs>
+    <g id="B端移动端v1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="会话界面评分" transform="translate(-456.000000, -282.000000)">
+            <g id="编组-16" transform="translate(96.000000, 282.000000)">
+                <g id="123" transform="translate(360.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="蒙版" fill="#FFF2D8" xlink:href="#path-1"></use>
+                    <ellipse id="椭圆形" fill="#FFF2D8" style="mix-blend-mode: multiply;" opacity="0.499674479" mask="url(#mask-2)" cx="230.049261" cy="102.916667" rx="135.46798" ry="135.416667"></ellipse>
+                    <ellipse id="椭圆形备份-6" fill="#FFF2D8" style="mix-blend-mode: multiply;" opacity="0.499674479" mask="url(#mask-2)" cx="115.763547" cy="200.416667" rx="135.46798" ry="135.416667"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="B端移动端v1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用户信息详情页面" transform="translate(-64.000000, -458.000000)">
+            <g id="编组-5" transform="translate(32.000000, 426.000000)">
+                <g id="Local-time" transform="translate(32.000000, 32.000000)">
+                    <circle id="椭圆形" fill-opacity="0.0768957605" fill="#000000" cx="15" cy="15" r="15"></circle>
+                    <g id="编组" transform="translate(6.000000, 6.000000)">
+                        <circle id="椭圆形" fill-opacity="0.202769886" fill="#000000" fill-rule="nonzero" cx="9" cy="9" r="9"></circle>
+                        <path d="M9.09091414,4.09090909 C9.59300784,4.09090909 10.0000101,4.47650628 10.0000101,4.95215538 L10.0000101,8.90165859 L12.0064758,10.8025153 C12.3614778,11.1388319 12.3614778,11.6841731 12.0064758,12.0204898 C11.6514738,12.3568064 11.0758343,12.3568064 10.7208323,12.0204898 L8.44809239,9.86737405 C8.2776369,9.70589037 8.18181818,9.48678932 8.18181818,9.2583868 L8.18181818,4.95215538 C8.18181818,4.47650628 8.58882044,4.09090909 9.09091414,4.09090909 Z" id="路径" fill-opacity="0.799879808" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
